@@ -1,0 +1,14 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Bloque 3 - Ejercicio 1
+
+/*Escriba un programa que lea dos números y determine cuál de ellos es el mayor.*/
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+	int n1, n2;
+	
+	return 0;
+}
